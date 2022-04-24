@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  },
+  "name": "@anthony16t/twitter-api",
+  "description": "Get information from twitter using the bearer token",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "here"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "anthony16t",
+  "license": "ISC"
+}
