@@ -1,8 +1,8 @@
 import fetch from 'node-fetch'
 import logs from './logs.js'
 
-export default class Twitter{
-
+export default class TwitterApi{
+    
     constructor(bearerToken){
         this._apiBaseUrl = 'https://api.twitter.com/1.1/'
         this._bearerToken = bearerToken
